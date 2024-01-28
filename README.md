@@ -15,7 +15,7 @@ Official implementation of paper: One Train for Two Tasks: An Encrypted Traffic 
 **Flow-level Task (ISCX-VPN)**
 | Model | AC | PR | RC | F1 |
 | -------- | -------- | -------- | -------- | -------- |
-| TFE-GNN | 0.9591 | 9526 | 0.9593 | 0.9536 |
+| TFE-GNN | 0.9591 | 0.9526 | 0.9593 | 0.9536 |
 | **CLE-TFE** | **0.9813** | **0.9771** | **0.9762** | **0.9761** |
 
 **Flow-level Task (ISCX-NonVPN)**
