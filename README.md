@@ -1,7 +1,7 @@
 # CLE-TFE
 
 
-Official implementation of paper: One Train for Two Tasks: An Encrypted Traffic Classification Framework Using Supervised Contrastive Learning. [[arXiv]()]
+Official implementation of paper: One Train for Two Tasks: An Encrypted Traffic Classification Framework Using Supervised Contrastive Learning. [[arXiv](https://arxiv.org/abs/2402.07501)]
 
 ![Method](./figures/CLE-TFE.png)
 
@@ -41,7 +41,7 @@ Official implementation of paper: One Train for Two Tasks: An Encrypted Traffic 
 
 ![FLOPS](./figures/FLOPS.png)
 
-For more details, please see [[arXiv]()].
+For more details, please see [[arXiv](https://arxiv.org/abs/2402.07501)].
 
 
 
@@ -165,7 +165,7 @@ In addition to potential differences, we recommend adjusting the hyperparameters
 @article{CLE-TFE,
   title={One Train for Two Tasks: An Encrypted Traffic Classification Framework Using Supervised Contrastive Learning},
   author={Haozhen Zhang and Xi Xiao* and Le Yu and Qing Li and Zhen Ling and Ye Zhang},
-  journal={arXiv preprint arXiv:XXXX.XXXXX},
+  journal={arXiv preprint arXiv:2402.07501},
   year={2024}
 }
 ```
