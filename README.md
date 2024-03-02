@@ -154,6 +154,15 @@ CUDA_VISIBLE_DEVICES="0" python test_new.py --dataset iscx-nontor --prefix exp_t
 ```
 
 
+## Potential Bugs
+
+- **remove() function in utils.py**
+
+  + The location of the header in the packet may change, so check this when using other datasets.
+
+
+
+
 
 ## Note
 
